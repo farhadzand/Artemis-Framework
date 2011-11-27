@@ -1,7 +1,7 @@
 <?php
 require('config/config.php');
 error_reporting(E_ALL);
-/******************** Defins ************************ - E_NOTICE*/
+/******************** Defins ******** agha feri :D**************** - E_NOTICE*/
 define("ROOT",dirname(__FILE__));
 define("DS",DIRECTORY_SEPARATOR);
 define("BASE",'');
